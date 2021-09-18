@@ -1,0 +1,47 @@
+.head{
+    
+    font-weight: 900 ;
+    color: red;
+    font-weight: bolder;
+}
+.head2{
+    color: rgb(240, 53, 20);
+    font-style: italic;
+}
+.orderedlist{
+    color: #a7203b;
+    font-weight: 300;
+}
+.listview{
+    font-weight: 600;
+    text-decoration:line-through brown;
+}
+.listview2{
+    font-weight: 600;
+    background:yellow;
+}
+.listview3{
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: 600;
+}
+.unorderedlist{
+    color: #a7203b;
+    font-weight: 300;
+    letter-spacing: 5px;
+    font-size: large;
+}
+.this{
+    background-color: yellow;
+    font-weight: 600;
+}
+.para{
+    color: #f17f15;
+}
+.link{
+    color: #a7203b;
+    background: yellow;
+    font-style: italic;
+    text-decoration: none;
+    font-weight: 700;
+}
